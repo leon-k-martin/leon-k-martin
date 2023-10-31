@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Leon Martin: Computational Neuroscientist & Psychologist
 
-Hello There! I'm Leon, a dedicated computational neuroscientist and psychologist. I specialize in whole-brain simulation and have a keen interest in leveraging neuroinformatics platforms, especially The Virtual Brain.
+Hello There! I'm Leon, computational neuroscientist and psychologist. I specialize in whole-brain simulation and have a keen interest in leveraging neuroinformatics platforms, especially The Virtual Brain.
 
 ![Brain Simulation Image](url_to_image)
 
