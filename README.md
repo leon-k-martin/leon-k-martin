@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 Hello There! I'm Leon, computational neuroscientist and psychologist. I specialize in whole-brain simulation and have a keen interest in leveraging neuroinformatics platforms, especially The Virtual Brain.
 
-![Brain Simulation Image](url_to_image)
-
 ## About Me
 
 - 🧠 Passionate about **whole-brain simulation** and understanding the intricacies of the human mind.
