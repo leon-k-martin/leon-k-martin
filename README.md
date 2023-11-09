@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**leon-k-martin/leon-k-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Leon Martin: Computational Neuroscientist & Psychologist
 
 Hello There! I'm Leon, computational neuroscientist and psychologist. I specialize in whole-brain simulation and have a keen interest in leveraging neuroinformatics platforms, especially The Virtual Brain.
@@ -57,6 +40,6 @@ Hello There! I'm Leon, computational neuroscientist and psychologist. I speciali
 ## Get in Touch
 
 - 📧 Email: leon.martin@bih-charite.de
-- 🐦 Twitter: [@Leon_K_Martin](https://twitter.com/Leon_K_Martin)
+- 🐦 Twitter: [@leon_mrtn](https://twitter.com/leon_mrtn)
 - 🌐 Personal Website: [www.brainsimulation.org](https://www.brainsimulation.org/)
 
