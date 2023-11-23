@@ -14,8 +14,8 @@ Hello There! I'm Leon, computational neuroscientist and psychologist. I speciali
 
 1. **The Virtual Brain Adapter of Semantics (TVBase)**: Literature-mining based brain mapping.
 2. **The Virtual Brain Ontology (TVB-O)**: Semantic Knowledge representation of brain simulation models based on nonlinear-systems dynamics.
-3. **The Virtual Child Brain**:
-4. **In Silico Optimization of Deep Brain Stimulation**:
+3. **The Virtual Child Brain**: In siliko approaches towards a dynamical description of the development of functional brain networks from early childhood to adults.
+4. **In Silico Optimization of Deep Brain Stimulation**: Innovating therapeutic approaches through computational models.
 
 ## Publications
 
