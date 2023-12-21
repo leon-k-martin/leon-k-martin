@@ -1,4 +1,6 @@
 # Leon Martin: Computational Neuroscientist & Psychologist
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2599--0165-9745f5?style=flat-square.svg)](https://orcid.org/0000-0002-2599-0165)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en)
 
 Hello There! I'm Leon, computational neuroscientist and psychologist. I specialize in whole-brain simulation and have a keen interest in leveraging neuroinformatics platforms, especially The Virtual Brain.
 
@@ -38,9 +40,6 @@ Hello There! I'm Leon, computational neuroscientist and psychologist. I speciali
 *Find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en).*
 
 ## Get in Touch
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2599--0165-9745f5?style=flat-square.svg)](https://orcid.org/0000-0001-9813-3167)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en)
-
 - 📧 Email: leon.martin@bih-charite.de
 - 🐦 Twitter: [@leon_mrtn](https://twitter.com/leon_mrtn)
 - 🌐 Personal Website: [www.brainsimulation.org](https://www.brainsimulation.org/)
