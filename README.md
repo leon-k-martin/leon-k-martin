@@ -42,9 +42,6 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
 - **Schultheiss, O., Frisch, M., Ozbe, D., Ossmann, A., Schultheiss, M., Lentz, S., Martin, L., & Rösch, A.** (2019). *Implicit motives show sex-dimorphic associations with digit ratio*. Motivation Science, 5(4), 326. [Link](#)
 
 
-
-*Find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en).*
-
 ## Get in Touch
 - 📧 Email: leon.martin@bih-charite.de
 - 🐦 Twitter: [@leon_mrtn](https://twitter.com/leon_mrtn)
