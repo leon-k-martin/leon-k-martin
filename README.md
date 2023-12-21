@@ -38,6 +38,7 @@ Hello There! I'm Leon, computational neuroscientist and psychologist. I speciali
 *Find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en).*
 
 ## Get in Touch
+[![ORCID](https://img.shields.io/badge/ORCID-green.svg)](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-2599-0165?style=flat-square.svg)](https://orcid.org/0000-0002-2599-0165)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en)
 
