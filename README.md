@@ -1,6 +1,7 @@
 # Leon Martin: Computational Neuroscientist & Psychologist
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2599--0165-9745f5?style=flat-square.svg)](https://orcid.org/0000-0002-2599-0165)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=u2lL5j8AAAAJ&hl=en)
+[![Homepage](https://img.shields.io/badge/Visit-Homepage-blue?style=flat-square&logo=HomeAdvisor)](https://leon-k-martin.github.io/)
 
 Hello There! I'm Leon, a doctoral researcher in computational neuroscience at the [Brain Simulation Section](https://www.brainsimulation.org) of [Charité University Medicine Berlin](https://neurologie.charite.de/en/metas/person_detail/person/address_detail/leon_martin_bsc-1/). 
 
