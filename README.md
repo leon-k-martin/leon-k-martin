@@ -12,7 +12,7 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
   
 - 🤝 Always open to collaboration and discussions related to computational neuroscience, The Virtual Brain, and related domains.
 
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon-k-martin)](https://github.com/leon-k-martin/github-readme-stats)
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon-k-martin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
 
