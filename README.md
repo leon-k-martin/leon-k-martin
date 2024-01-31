@@ -7,7 +7,7 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
 
 ## About Me
 
-- 🧠 Interested in **whole-brain simulation** in clinical applications.
+- 🧠 Interested in **whole-brain simulation** for clinical applications.
   
 - 🖥 Currently working on the neuroinformatics platform, [The Virtual Brain](https://www.thevirtualbrain.org/).
   
