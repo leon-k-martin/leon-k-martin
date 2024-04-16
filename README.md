@@ -37,7 +37,7 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
 ### 2021
 - Stefanovski, L., Meier, J., Pai, R., Triebkorn, P., Lett, T., **Martin, L.**, Bülau, K., Hofmann-Apitius, M., Solodkin, A., McIntosh, A., & others. (2021). *Bridging scales in alzheimer's disease: Biological framework for brain simulation with the virtual brain*. Frontiers in Neuroinformatics, 15, 630172. [Link](#)
 
-- Stefanovski, L., Bülau, K., **Martin, L.**, Courtiol, J., Diaz-Cortes, M.A., Langford, C., Palmer, J., Ritter, P., & Alzheimer’s Disease Neuroimaging Initiative**. (2021). *Spatial mapping of subcellular disease pathways and cytoarchitecture to anatomical brain regions for multi-scale brain simulation with The Virtual Brain*. Alzheimer's & Dementia, 17, e052311. [Link](#)
+- Stefanovski, L., Bülau, K., **Martin, L.**, Courtiol, J., Diaz-Cortes, M.A., Langford, C., Palmer, J., Ritter, P., & Alzheimer’s Disease Neuroimaging Initiative. (2021). *Spatial mapping of subcellular disease pathways and cytoarchitecture to anatomical brain regions for multi-scale brain simulation with The Virtual Brain*. Alzheimer's & Dementia, 17, e052311. [Link](#)
 
 ### 2019
 - Schultheiss, O., Frisch, M., Ozbe, D., Ossmann, A., Schultheiss, M., Lentz, S., **Martin, L.**, & Rösch, A. (2019). *Implicit motives show sex-dimorphic associations with digit ratio*. Motivation Science, 5(4), 326. [Link](#)
