@@ -15,12 +15,6 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=leon-k-martin" alt="Leon's GitHub stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=leon-k-martin&count_private=true" alt="Leon's GitHub stats"/>
   </a>
 </p>
