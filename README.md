@@ -19,6 +19,12 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=leon-k-martin&count_private=true" alt="Leon's GitHub stats"/>
+  </a>
+</p>
+
 ## Current Projects
 
 1. **The Virtual Brain Adapter of Semantics (TVBase)**: Literature-mining based brain mapping.
