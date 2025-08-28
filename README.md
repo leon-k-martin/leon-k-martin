@@ -14,12 +14,8 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
 - 🤝 Always open to collaboration and discussions related to computational neuroscience, The Virtual Brain, and related domains.
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=leon-k-martin&show_icons=true&count_private=true" alt="Leon's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-k-martin&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
-  </a>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=leon-k-martin&show_icons=true&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-k-martin&layout=compact&langs_count=8&card_width=320" />
 </p>
 
 ## Current Projects
