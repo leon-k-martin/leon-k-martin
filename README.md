@@ -19,6 +19,9 @@ Hello There! I'm Leon, a doctoral researcher in computational neuroscience at th
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 ## Current Projects
 
 1. **The Virtual Brain Adapter of Semantics (TVBase)**: Literature-mining based brain mapping.
